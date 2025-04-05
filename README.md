@@ -138,6 +138,10 @@ To address these challenges, the Sales Director requested a Power BI dashboard t
     )
   )
 
+- **Profit Target Difference**
+  ```DAX
+  Target Difference = [Profit Margin %] - 'Profit Target'[Profit Target Value]
+  
 ---
 ## Dashboard & Insights
 
